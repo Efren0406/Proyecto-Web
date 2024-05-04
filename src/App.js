@@ -23,7 +23,7 @@ function App() {
       <div>
         <p className='headerMain'>
           Servicio <br />
-          Meteorológico<br />
+          Papoi<br />
           México<br />
         </p>
       </div>
